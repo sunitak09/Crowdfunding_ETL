@@ -91,3 +91,5 @@ Using the database schema, create the tables in the correct order to handle the 
 Verify the table creation by running a SELECT statement for each table.
 Import each CSV file into its corresponding SQL table.
 Verify that each table has the correct data by running a SELECT statement for each.
+
+RESULTS: .CSV file (campaign.csv, category.csv, contacts.csv, subcategory.csv) created in jupyter notbook activity saved in Resources which are the data file for SQL schema in postgress. 
